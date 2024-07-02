@@ -6,11 +6,11 @@ This repository accompanies of the PhD thesis manuscript of Mathieu Bolteau by p
 
 This repository comprises 3 notebooks, each corresponding to an illustration of a program or a concept presented in the manuscript.
 
-The [first notebook](https://github.com/mathieubolteau/Bolteau_PhD_Thesis_Supplement/Illustration_3.1.ipynb) illustrates the Program 3.1 of the manuscript. 
+The first notebook illustrates the Program 3.1 of the manuscript. 
 
-The [second notebook](https://github.com/mathieubolteau/Bolteau_PhD_Thesis_Supplement/Illustration_3.2.ipynb) illustrates the Program 3.2 of the manuscript. 
+The second notebook illustrates the Program 3.2 of the manuscript. 
 
-The [third notebook](https://github.com/mathieubolteau/Bolteau_PhD_Thesis_Supplement/Illustration_5.1.ipynb) illustrates the *Constraint 2* of the program $v2$ of the manuscript. 
+The third notebook illustrates the *Constraint 2* of the program $v2$ of the manuscript. 
 
 To execute and test the ASP examples provided in the notebooks, we recommend using Binder, an online platform that provides access to an executable environment. Please click on the following link: [https://mybinder.org/v2/gh/mathieubolteau/Bolteau_PhD_Thesis_Supplement/master](https://mybinder.org/v2/gh/mathieubolteau/Bolteau_PhD_Thesis_Supplement/master).
 
